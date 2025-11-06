@@ -1,8 +1,3 @@
-Aqui está um modelo completo de **`README.md`** pronto para o seu projeto *Electric Vehicle Analytics*, com tudo o que foi pedido (descrição, instruções de execução e resumo dos resultados).
-Você pode copiar e colar diretamente no arquivo `README.md` na raiz do projeto (`ev-analytics/README.md`):
-
----
-
 # 🚗 Electric Vehicle Analytics
 
 Este projeto analisa como **fatores técnicos e de uso** influenciam a **adoção e o valor de revenda de veículos elétricos**, utilizando um conjunto de dados com informações de fabricantes, desempenho, custos e indicadores ambientais.
